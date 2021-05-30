@@ -1,0 +1,973 @@
+[2021-05-28 19:02:25] ShadowsocksR started on port 1080
+[2021-05-28 19:02:33] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:02:35] [Debug] DNS query fail: raw.githubusercontent.com
+[2021-05-28 19:02:35] [Info] Connect raw.githubusercontent.com:443
+[2021-05-28 19:02:36] [Info] Connect raw.githubusercontent.com:443
+[2021-05-28 19:02:36] [Info] Connect raw.githubusercontent.com:443
+[2021-05-28 19:02:36] [Info] Disconnect raw.githubusercontent.com:443
+[2021-05-28 19:02:36] [Debug] DNS query fail: raw.githubusercontent.com
+[2021-05-28 19:02:36] [Info] Connect raw.githubusercontent.com:443
+[2021-05-28 19:02:36] [Info] Connect raw.githubusercontent.com:443
+[2021-05-28 19:02:36] [Info] Connect raw.githubusercontent.com:443
+[2021-05-28 19:02:37] [Info] Disconnect raw.githubusercontent.com:443
+[2021-05-28 19:02:37] [Debug] DNS query fail: raw.githubusercontent.com
+[2021-05-28 19:02:37] [Info] Connect raw.githubusercontent.com:443
+[2021-05-28 19:02:37] [Info] Connect raw.githubusercontent.com:443
+[2021-05-28 19:02:37] [Info] Connect raw.githubusercontent.com:443
+[2021-05-28 19:02:37] [Info] Disconnect raw.githubusercontent.com:443
+[2021-05-28 19:02:37] [Debug] DNS query fail: raw.githubusercontent.com
+[2021-05-28 19:02:37] [Info] Connect raw.githubusercontent.com:443
+[2021-05-28 19:02:37] [Info] Connect raw.githubusercontent.com:443
+[2021-05-28 19:02:38] [Info] Connect raw.githubusercontent.com:443
+[2021-05-28 19:02:38] [Info] Disconnect raw.githubusercontent.com:443
+[2021-05-28 19:02:38] [Error] connect to update server error
+[2021-05-28 19:02:50] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:02:51] [Info] Connect content-autofill.googleapis.com:443
+[2021-05-28 19:02:51] [Info] Connect content-autofill.googleapis.com:443
+[2021-05-28 19:02:51] [Info] Connect content-autofill.googleapis.com:443
+[2021-05-28 19:02:51] [Info] Disconnect content-autofill.googleapis.com:443
+[2021-05-28 19:03:07] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:03:16] [Info] Connect go.tzwblog.pw:443
+[2021-05-28 19:03:16] [Info] Direct connect cdn.bootcss.com:443
+[2021-05-28 19:03:16] [Info] Direct connect cdn.bootcdn.net:443
+[2021-05-28 19:03:16] [Info] Direct connect cdn.jsdelivr.net:443
+[2021-05-28 19:03:16] [Info] Direct connect fonts.googleapis.com:443
+[2021-05-28 19:03:16] [Info] Direct connect cdn.staticfile.org:443
+[2021-05-28 19:03:17] [Info] Direct connect fonts.gstatic.com:443
+[2021-05-28 19:03:17] [Info] Connect client.crisp.chat:443
+[2021-05-28 19:03:20] [Info] Direct connect fonts.gstatic.com:443
+[2021-05-28 19:03:20] [Info] Connect content-autofill.googleapis.com:443
+[2021-05-28 19:03:20] [Info] Connect client.crisp.chat:443
+[2021-05-28 19:03:20] [Info] Direct connect www.google-analytics.com:443
+[2021-05-28 19:03:20] [Info] Direct connect stats.g.doubleclick.net:443
+[2021-05-28 19:03:21] [Info] Connect clients4.google.com:443
+[2021-05-28 19:03:22] [Info] Connect client.relay.crisp.chat:443
+[2021-05-28 19:03:24] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:03:27] [Info] Direct connect suggestion.baidu.com:443
+[2021-05-28 19:03:41] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:03:58] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:03:59] [Info] Direct connect open.weixin.qq.com:443
+[2021-05-28 19:03:59] [Info] Direct connect res.wx.qq.com:443
+[2021-05-28 19:03:59] [Info] Direct connect res.wx.qq.com:443
+[2021-05-28 19:03:59] [Info] Direct connect tim.qq.com:443
+[2021-05-28 19:03:59] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:04:17] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:04:21] [Info] Direct connect googleads.g.doubleclick.net:443
+[2021-05-28 19:04:21] [Info] Direct connect adservice.google.com:443
+[2021-05-28 19:04:22] [Info] Direct connect fonts.gstatic.com:443
+[2021-05-28 19:04:22] [Info] Direct connect fonts.googleapis.com:443
+[2021-05-28 19:04:22] [Info] Direct connect tpc.googlesyndication.com:443
+[2021-05-28 19:04:22] [Info] Disconnect client.crisp.chat:443
+[2021-05-28 19:04:23] [Info] Direct connect pagead2.googlesyndication.com:443
+[2021-05-28 19:04:32] [Info] Direct connect pagead2.googlesyndication.com:443
+[2021-05-28 19:04:34] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:04:49] [Info] Connect s2.googleusercontent.com:443
+[2021-05-28 19:04:51] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:04:52] [Info] Connect accounts.google.com:443
+[2021-05-28 19:04:53] [Info] Connect mail.google.com:443
+[2021-05-28 19:04:58] [Info] Connect aa.google.com:443
+[2021-05-28 19:04:58] [Info] Direct connect ssl.gstatic.com:443
+[2021-05-28 19:04:58] [Info] Connect www.google.com:443
+[2021-05-28 19:04:58] [Info] Connect clients2.google.com:443
+[2021-05-28 19:04:59] [Info] Connect hangouts.google.com:443
+[2021-05-28 19:05:00] [Info] Connect play.google.com:443
+[2021-05-28 19:05:00] [Info] Connect www.google.com:443
+[2021-05-28 19:05:00] [Info] Connect hangouts.google.com:443
+[2021-05-28 19:05:01] [Info] Connect play.google.com:443
+[2021-05-28 19:05:01] [Info] Connect play.google.com:443
+[2021-05-28 19:05:01] [Info] Disconnect www.google.com:443
+[2021-05-28 19:05:01] [Info] Disconnect hangouts.google.com:443
+[2021-05-28 19:05:01] [Info] Disconnect play.google.com:443
+[2021-05-28 19:05:01] [Info] Disconnect play.google.com:443
+[2021-05-28 19:05:01] [Info] Connect play.google.com:443
+[2021-05-28 19:05:01] [Info] Connect play.google.com:443
+[2021-05-28 19:05:01] [Info] Connect play.google.com:443
+[2021-05-28 19:05:01] [Info] Connect people-pa.clients6.google.com:443
+[2021-05-28 19:05:01] [Info] Connect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:01] [Info] Connect clients6.google.com:443
+[2021-05-28 19:05:01] [Info] Connect mail-ads.google.com:443
+[2021-05-28 19:05:02] [Info] Disconnect play.google.com:443
+[2021-05-28 19:05:02] [Info] Connect chat.google.com:443
+[2021-05-28 19:05:02] [Info] Connect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:02] [Info] Connect 0.client-channel.google.com:443
+[2021-05-28 19:05:02] [Info] Connect 0.client-channel.google.com:443
+[2021-05-28 19:05:02] [Info] Disconnect play.google.com:443
+[2021-05-28 19:05:03] [Info] Connect mail-ads.google.com:443
+[2021-05-28 19:05:04] [Info] Connect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:04] [Info] Connect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:06] [Info] Connect contacts.google.com:443
+[2021-05-28 19:05:07] [Info] Connect people-pa.clients6.google.com:443
+[2021-05-28 19:05:07] [Info] Connect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:07] [Info] Connect clients6.google.com:443
+[2021-05-28 19:05:07] [Info] Connect addons-pa.clients6.google.com:443
+[2021-05-28 19:05:07] [Info] Disconnect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:07] [Info] Connect 0.client-channel.google.com:443
+[2021-05-28 19:05:07] [Info] Connect chat.google.com:443
+[2021-05-28 19:05:08] [Info] Connect 0.client-channel.google.com:443
+[2021-05-28 19:05:08] [Info] Disconnect 0.client-channel.google.com:443
+[2021-05-28 19:05:08] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:05:08] [Info] Disconnect content-autofill.googleapis.com:443
+[2021-05-28 19:05:08] [Info] Disconnect s2.googleusercontent.com:443
+[2021-05-28 19:05:08] [Info] Disconnect client.crisp.chat:443
+[2021-05-28 19:05:08] [Info] Disconnect go.tzwblog.pw:443
+[2021-05-28 19:05:08] [Info] Connect mail-ads.google.com:443
+[2021-05-28 19:05:08] [Info] Disconnect accounts.google.com:443
+[2021-05-28 19:05:08] [Info] Disconnect hangouts.google.com:443
+[2021-05-28 19:05:08] [Info] Disconnect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:08] [Info] Disconnect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:08] [Info] Disconnect mail-ads.google.com:443
+[2021-05-28 19:05:08] [Info] Disconnect clients2.google.com:443
+[2021-05-28 19:05:08] [Info] Disconnect www.google.com:443
+[2021-05-28 19:05:08] [Info] Connect people-pa.clients6.google.com:443
+[2021-05-28 19:05:08] [Info] Direct connect ssl.gstatic.com:443
+[2021-05-28 19:05:09] [Info] Disconnect people-pa.clients6.google.com:443
+[2021-05-28 19:05:09] [Info] Disconnect play.google.com:443
+[2021-05-28 19:05:09] [Info] Disconnect aa.google.com:443
+[2021-05-28 19:05:09] [Info] Disconnect play.google.com:443
+[2021-05-28 19:05:09] [Info] Connect apis.google.com:443
+[2021-05-28 19:05:09] [Info] Connect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:09] [Info] Connect clients6.google.com:443
+[2021-05-28 19:05:09] [Info] Connect addons-pa.clients6.google.com:443
+[2021-05-28 19:05:09] [Info] Disconnect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:10] [Info] Connect apis.google.com:443
+[2021-05-28 19:05:10] [Info] Connect mail-ads.google.com:443
+[2021-05-28 19:05:10] [Info] Connect play.google.com:443
+[2021-05-28 19:05:10] [Info] Connect accounts.google.com:443
+[2021-05-28 19:05:10] [Info] Connect play.google.com:443
+[2021-05-28 19:05:11] [Info] Connect lh3.googleusercontent.com:443
+[2021-05-28 19:05:11] [Info] Connect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:11] [Info] Connect lh3.googleusercontent.com:443
+[2021-05-28 19:05:11] [Info] Connect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:11] [Info] Connect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:11] [Info] Connect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:12] [Info] Connect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:12] [Info] Disconnect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:13] [Info] Disconnect lh3.googleusercontent.com:443
+[2021-05-28 19:05:13] [Info] Disconnect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:13] [Info] Disconnect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:13] [Info] Connect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:13] [Info] Connect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:13] [Info] Connect ogs.google.com:443
+[2021-05-28 19:05:13] [Info] Connect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:13] [Info] Connect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:13] [Info] Direct connect googleads.g.doubleclick.net:443
+[2021-05-28 19:05:13] [Info] Connect play.google.com:443
+[2021-05-28 19:05:13] [Info] Connect play.google.com:443
+[2021-05-28 19:05:13] [Info] Connect play.google.com:443
+[2021-05-28 19:05:14] [Info] Disconnect play.google.com:443
+[2021-05-28 19:05:15] [Info] Disconnect play.google.com:443
+[2021-05-28 19:05:15] [Info] Connect github.com:443
+[2021-05-28 19:05:15] [Info] Connect github.githubassets.com:443
+[2021-05-28 19:05:16] [Info] Connect play.google.com:443
+[2021-05-28 19:05:16] [Info] Disconnect play.google.com:443
+[2021-05-28 19:05:18] [Info] Connect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:20] [Info] Direct connect pagead2.googlesyndication.com:443
+[2021-05-28 19:05:20] [Info] Direct connect www.google-analytics.com:443
+[2021-05-28 19:05:20] [Info] Disconnect client.relay.crisp.chat:443
+[2021-05-28 19:05:20] [Info] Disconnect play.google.com:443
+[2021-05-28 19:05:20] [Info] Disconnect accounts.google.com:443
+[2021-05-28 19:05:20] [Info] Disconnect play.google.com:443
+[2021-05-28 19:05:20] [Info] Disconnect lh3.googleusercontent.com:443
+[2021-05-28 19:05:20] [Info] Disconnect contacts.google.com:443
+[2021-05-28 19:05:20] [Info] Disconnect addons-pa.clients6.google.com:443
+[2021-05-28 19:05:20] [Info] Disconnect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:20] [Info] Disconnect mail-ads.google.com:443
+[2021-05-28 19:05:20] [Info] Disconnect clients6.google.com:443
+[2021-05-28 19:05:20] [Info] Disconnect apis.google.com:443
+[2021-05-28 19:05:20] [Info] Disconnect mail.google.com:443
+[2021-05-28 19:05:20] [Info] Disconnect chat.google.com:443
+[2021-05-28 19:05:20] [Info] Disconnect people-pa.clients6.google.com:443
+[2021-05-28 19:05:20] [Info] Disconnect addons-pa.clients6.google.com:443
+[2021-05-28 19:05:20] [Info] Disconnect github.githubassets.com:443
+[2021-05-28 19:05:20] [Info] Disconnect clients6.google.com:443
+[2021-05-28 19:05:20] [Info] Disconnect mail-ads.google.com:443
+[2021-05-28 19:05:20] [Info] Disconnect github.com:443
+[2021-05-28 19:05:20] [Info] Disconnect 0.client-channel.google.com:443
+[2021-05-28 19:05:20] [Info] Disconnect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:20] [Info] Disconnect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:20] [Info] Disconnect apis.google.com:443
+[2021-05-28 19:05:20] [Info] Disconnect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:20] [Info] Disconnect chat-pa.clients6.google.com:443
+[2021-05-28 19:05:20] [Info] Disconnect ogs.google.com:443
+[2021-05-28 19:05:20] [Info] Disconnect clients4.google.com:443
+[2021-05-28 19:05:26] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:05:43] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:05:44] [Info] Connect accounts.google.com:443
+[2021-05-28 19:05:44] [Info] Direct connect clientservices.googleapis.com:443
+[2021-05-28 19:05:44] [Info] Connect s2.googleusercontent.com:443
+[2021-05-28 19:05:44] [Info] Connect www.googleapis.com:443
+[2021-05-28 19:05:44] [Info] Connect www.googleapis.com:443
+[2021-05-28 19:05:45] [Info] Disconnect www.googleapis.com:443
+[2021-05-28 19:05:45] [Info] Connect clients4.google.com:443
+[2021-05-28 19:05:45] [Info] Connect oauthaccountmanager.googleapis.com:443
+[2021-05-28 19:05:46] [Info] Connect go.tzwblog.pw:443
+[2021-05-28 19:05:47] [Info] Direct connect fonts.gstatic.com:443
+[2021-05-28 19:05:47] [Info] Direct connect www.google-analytics.com:443
+[2021-05-28 19:05:47] [Info] Connect client.crisp.chat:443
+[2021-05-28 19:05:47] [Info] Direct connect cdn.jsdelivr.net:443
+[2021-05-28 19:05:48] [Info] Connect client.crisp.chat:443
+[2021-05-28 19:05:48] [Info] Direct connect stats.g.doubleclick.net:443
+[2021-05-28 19:05:49] [Info] Connect s2.googleusercontent.com:443
+[2021-05-28 19:05:50] [Info] Connect oauthaccountmanager.googleapis.com:443
+[2021-05-28 19:05:51] [Info] Connect client.relay.crisp.chat:443
+[2021-05-28 19:05:52] [Info] Connect mtalk.google.com:5228
+[2021-05-28 19:05:52] [Info] Direct connect update.googleapis.com:443
+[2021-05-28 19:05:53] [Info] Connect client.crisp.chat:443
+[2021-05-28 19:05:54] [Info] Connect s2.googleusercontent.com:443
+[2021-05-28 19:06:00] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:06:13] [Info] Connect www.google.com:443
+[2021-05-28 19:06:15] [Info] Direct connect suggestion.baidu.com:443
+[2021-05-28 19:06:16] [Info] Direct connect suggestion.baidu.com:443
+[2021-05-28 19:06:16] [Info] Direct connect suggestion.baidu.com:443
+[2021-05-28 19:06:17] [Info] Direct connect suggestion.baidu.com:443
+[2021-05-28 19:06:17] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:06:18] [Info] Direct connect www.baidu.com:443
+[2021-05-28 19:06:18] [Info] Direct connect www.baidu.com:443
+[2021-05-28 19:06:18] [Info] Direct connect www.baidu.com:443
+[2021-05-28 19:06:18] [Info] Direct connect tiebapic.baidu.com:443
+[2021-05-28 19:06:18] [Info] Direct connect hectorstatic.baidu.com:443
+[2021-05-28 19:06:18] [Info] Direct connect sp1.baidu.com:443
+[2021-05-28 19:06:18] [Info] Direct connect sp0.baidu.com:443
+[2021-05-28 19:06:19] [Info] Direct connect fclick.baidu.com:443
+[2021-05-28 19:06:19] [Info] Direct connect fclick.baidu.com:443
+[2021-05-28 19:06:21] [Info] Direct connect dss1.bdstatic.com:443
+[2021-05-28 19:06:21] [Info] Direct connect ss1.bdstatic.com:443
+[2021-05-28 19:06:21] [Info] Connect www.google.com:443
+[2021-05-28 19:06:23] [Info] Connect aa.google.com:443
+[2021-05-28 19:06:23] [Info] Direct connect adservice.google.com:443
+[2021-05-28 19:06:24] [Info] Connect play.google.com:443
+[2021-05-28 19:06:26] [Info] Connect play.google.com:443
+[2021-05-28 19:06:26] [Info] Connect play.google.com:443
+[2021-05-28 19:06:27] [Info] Connect www.youtube.com:443
+[2021-05-28 19:06:27] [Info] Connect id.google.com:443
+[2021-05-28 19:06:27] [Info] Disconnect client.crisp.chat:443
+[2021-05-28 19:06:27] [Info] Direct connect www.gstatic.com:443
+[2021-05-28 19:06:28] [Info] Connect content-autofill.googleapis.com:443
+[2021-05-28 19:06:29] [Info] Connect i.ytimg.com:443
+[2021-05-28 19:06:29] [Info] Direct connect fonts.gstatic.com:443
+[2021-05-28 19:06:29] [Info] Disconnect content-autofill.googleapis.com:443
+[2021-05-28 19:06:29] [Info] Direct connect googleads.g.doubleclick.net:443
+[2021-05-28 19:06:30] [Info] Connect yt3.ggpht.com:443
+[2021-05-28 19:06:30] [Info] Direct connect translate.googleapis.com:443
+[2021-05-28 19:06:30] [Info] Disconnect play.google.com:443
+[2021-05-28 19:06:30] [Info] Disconnect play.google.com:443
+[2021-05-28 19:06:30] [Info] Connect yt3.ggpht.com:443
+[2021-05-28 19:06:31] [Info] Connect i.ytimg.com:443
+[2021-05-28 19:06:31] [Info] Connect i.ytimg.com:443
+[2021-05-28 19:06:31] [Info] Connect i.ytimg.com:443
+[2021-05-28 19:06:31] [Info] Connect yt3.ggpht.com:443
+[2021-05-28 19:06:31] [Info] Connect yt3.ggpht.com:443
+[2021-05-28 19:06:31] [Info] Connect yt3.ggpht.com:443
+[2021-05-28 19:06:31] [Info] Connect i.ytimg.com:443
+[2021-05-28 19:06:31] [Info] Connect i.ytimg.com:443
+[2021-05-28 19:06:31] [Info] Connect yt3.ggpht.com:443
+[2021-05-28 19:06:31] [Info] Connect i.ytimg.com:443
+[2021-05-28 19:06:31] [Info] Disconnect i.ytimg.com:443
+[2021-05-28 19:06:31] [Info] Disconnect i.ytimg.com:443
+[2021-05-28 19:06:32] [Info] Disconnect yt3.ggpht.com:443
+[2021-05-28 19:06:32] [Info] Disconnect yt3.ggpht.com:443
+[2021-05-28 19:06:32] [Info] Disconnect yt3.ggpht.com:443
+[2021-05-28 19:06:32] [Info] Disconnect yt3.ggpht.com:443
+[2021-05-28 19:06:32] [Info] Disconnect yt3.ggpht.com:443
+[2021-05-28 19:06:32] [Info] Connect www.google.co.jp:443
+[2021-05-28 19:06:33] [Info] Direct connect fonts.gstatic.com:443
+[2021-05-28 19:06:33] [Info] Direct connect static.doubleclick.net:443
+[2021-05-28 19:06:34] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:06:35] [Info] Connect r3---sn-oguelnlz.googlevideo.com:443
+[2021-05-28 19:06:35] [Info] Connect r3---sn-oguelnlz.googlevideo.com:443
+[2021-05-28 19:06:35] [Info] Connect r3---sn-oguelnlz.googlevideo.com:443
+[2021-05-28 19:06:36] [Info] Connect i.ytimg.com:443
+[2021-05-28 19:06:36] [Info] Connect i.ytimg.com:443
+[2021-05-28 19:06:36] [Info] Connect i.ytimg.com:443
+[2021-05-28 19:06:36] [Info] Disconnect i.ytimg.com:443
+[2021-05-28 19:06:36] [Info] Disconnect i.ytimg.com:443
+[2021-05-28 19:06:36] [Info] Disconnect i.ytimg.com:443
+[2021-05-28 19:06:37] [Info] Connect r3---sn-oguelnlz.googlevideo.com:443
+[2021-05-28 19:06:43] [Info] Connect clients4.google.com:443
+[2021-05-28 19:06:43] [Info] Direct connect update.googleapis.com:443
+[2021-05-28 19:06:50] [Info] Direct connect cdn.jsdelivr.net:443
+[2021-05-28 19:06:50] [Info] Direct connect cdn.bootcdn.net:443
+[2021-05-28 19:06:50] [Info] Direct connect fonts.googleapis.com:443
+[2021-05-28 19:06:50] [Info] Direct connect fonts.gstatic.com:443
+[2021-05-28 19:06:50] [Info] Direct connect cdn.bootcss.com:443
+[2021-05-28 19:06:50] [Info] Direct connect cdn.staticfile.org:443
+[2021-05-28 19:06:51] [Info] Disconnect r3---sn-oguelnlz.googlevideo.com:443
+[2021-05-28 19:06:51] [Info] Connect client.crisp.chat:443
+[2021-05-28 19:06:51] [Info] Disconnect client.relay.crisp.chat:443
+[2021-05-28 19:06:51] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:06:53] [Info] Connect client.relay.crisp.chat:443
+[2021-05-28 19:06:58] [Info] Connect client.relay.crisp.chat:443
+[2021-05-28 19:07:01] [Info] Connect image.crisp.chat:443
+[2021-05-28 19:07:09] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:07:24] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2021-05-28 19:07:26] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:07:26] [Info] Connect google.com:443
+[2021-05-28 19:07:27] [Info] Disconnect client.crisp.chat:443
+[2021-05-28 19:07:27] [Info] Connect google.com:443
+[2021-05-28 19:07:35] [Debug] DNS query fail: raw.githubusercontent.com
+[2021-05-28 19:07:35] [Info] Connect raw.githubusercontent.com:443
+[2021-05-28 19:07:37] [Info] Disconnect raw.githubusercontent.com:443
+[2021-05-28 19:07:37] [Debug] DNS query fail: raw.githubusercontent.com
+[2021-05-28 19:07:37] [Info] Connect raw.githubusercontent.com:443
+[2021-05-28 19:07:38] [Info] Disconnect raw.githubusercontent.com:443
+[2021-05-28 19:07:38] [Error] connect to update server error
+[2021-05-28 19:07:43] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:07:45] [Info] Disconnect accounts.google.com:443
+[2021-05-28 19:07:45] [Info] Disconnect www.googleapis.com:443
+[2021-05-28 19:07:52] [Info] Disconnect oauthaccountmanager.googleapis.com:443
+[2021-05-28 19:07:53] [Info] Disconnect mtalk.google.com:5228
+[2021-05-28 19:07:53] [Info] Connect mtalk.google.com:5228
+[2021-05-28 19:08:00] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:08:14] [Info] Disconnect s2.googleusercontent.com:443
+[2021-05-28 19:08:15] [Info] Disconnect www.google.com:443
+[2021-05-28 19:08:17] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:08:26] [Info] Disconnect aa.google.com:443
+[2021-05-28 19:08:26] [Info] Disconnect play.google.com:443
+[2021-05-28 19:08:31] [Info] Disconnect id.google.com:443
+[2021-05-28 19:08:34] [Info] Connect www.google.com:443
+[2021-05-28 19:08:34] [Info] Connect s2.googleusercontent.com:443
+[2021-05-28 19:08:35] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:08:36] [Info] Connect history.google.com:443
+[2021-05-28 19:08:36] [Info] Connect history.google.com:443
+[2021-05-28 19:08:36] [Info] Connect history.google.com:443
+[2021-05-28 19:08:37] [Info] Disconnect history.google.com:443
+[2021-05-28 19:08:37] [Info] Connect t0.gstatic.com:443
+[2021-05-28 19:08:39] [Info] Connect www.google.com:443
+[2021-05-28 19:08:41] [Info] Disconnect r3---sn-oguelnlz.googlevideo.com:443
+[2021-05-28 19:08:43] [Info] Disconnect www.google.co.jp:443
+[2021-05-28 19:08:43] [Info] Disconnect www.google.com:443
+[2021-05-28 19:08:45] [Info] Disconnect clients4.google.com:443
+[2021-05-28 19:08:45] [Info] Connect www.pornhub.com:443
+[2021-05-28 19:08:45] [Info] Connect di.phncdn.com:443
+[2021-05-28 19:08:45] [Info] Connect cn.pornhub.com:443
+[2021-05-28 19:08:45] [Info] Connect static.trafficjunky.com:443
+[2021-05-28 19:08:47] [Info] Direct connect fonts.googleapis.com:443
+[2021-05-28 19:08:47] [Info] Connect ci.phncdn.com:443
+[2021-05-28 19:08:47] [Info] Connect ai.phncdn.com:443
+[2021-05-28 19:08:47] [Info] Connect ei.phncdn.com:443
+[2021-05-28 19:08:47] [Info] Connect ss.phncdn.com:443
+[2021-05-28 19:08:47] [Info] Disconnect r3---sn-oguelnlz.googlevideo.com:443
+[2021-05-28 19:08:47] [Info] Connect www.pornhub.com:443
+[2021-05-28 19:08:47] [Info] Connect ei.phncdn.com:443
+[2021-05-28 19:08:48] [Info] Disconnect di.phncdn.com:443
+[2021-05-28 19:08:48] [Info] Connect www.pornhub.com:443
+[2021-05-28 19:08:49] [Info] Disconnect ei.phncdn.com:443
+[2021-05-28 19:08:49] [Info] Connect di.phncdn.com:443
+[2021-05-28 19:08:49] [Info] Connect ads.trafficjunky.net:443
+[2021-05-28 19:08:49] [Info] Connect a.adtng.com:443
+[2021-05-28 19:08:49] [Info] Disconnect ai.phncdn.com:443
+[2021-05-28 19:08:49] [Info] Connect ai.phncdn.com:443
+[2021-05-28 19:08:49] [Info] Connect srv272b.com:443
+[2021-05-28 19:08:49] [Info] Disconnect history.google.com:443
+[2021-05-28 19:08:49] [Info] Disconnect ss.phncdn.com:443
+[2021-05-28 19:08:49] [Info] Connect ads.trafficjunky.net:443
+[2021-05-28 19:08:50] [Info] Disconnect static.trafficjunky.com:443
+[2021-05-28 19:08:50] [Info] Disconnect go.tzwblog.pw:443
+[2021-05-28 19:08:50] [Info] Disconnect clients4.google.com:443
+[2021-05-28 19:08:50] [Info] Disconnect client.crisp.chat:443
+[2021-05-28 19:08:50] [Info] Disconnect www.pornhub.com:443
+[2021-05-28 19:08:50] [Info] Disconnect www.google.com:443
+[2021-05-28 19:08:50] [Info] Disconnect www.youtube.com:443
+[2021-05-28 19:08:50] [Info] Disconnect s2.googleusercontent.com:443
+[2021-05-28 19:08:50] [Info] Disconnect yt3.ggpht.com:443
+[2021-05-28 19:08:50] [Info] Disconnect i.ytimg.com:443
+[2021-05-28 19:08:50] [Info] Disconnect www.pornhub.com:443
+[2021-05-28 19:08:51] [Info] Disconnect cn.pornhub.com:443
+[2021-05-28 19:08:51] [Info] Disconnect history.google.com:443
+[2021-05-28 19:08:51] [Info] Connect di.phncdn.com:443
+[2021-05-28 19:08:51] [Info] Disconnect t0.gstatic.com:443
+[2021-05-28 19:08:51] [Info] Connect di.phncdn.com:443
+[2021-05-28 19:08:51] [Info] Disconnect image.crisp.chat:443
+[2021-05-28 19:08:51] [Info] Disconnect google.com:443
+[2021-05-28 19:08:52] [Info] Disconnect ai.phncdn.com:443
+[2021-05-28 19:08:52] [Info] Connect dn.srv1272.com:443
+[2021-05-28 19:08:52] [Info] Connect hw-cdn2.adtng.com:443
+[2021-05-28 19:08:52] [Info] Disconnect di.phncdn.com:443
+[2021-05-28 19:08:52] [Info] Connect cn.pornhub.com:443
+[2021-05-28 19:08:52] [Info] Direct connect www.google-analytics.com:443
+[2021-05-28 19:08:52] [Info] Connect ci.phncdn.com:443
+[2021-05-28 19:08:52] [Info] Direct connect stats.g.doubleclick.net:443
+[2021-05-28 19:08:53] [Info] Connect www.pornhub.com:443
+[2021-05-28 19:08:53] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:08:53] [Info] Connect cn.pornhub.com:443
+[2021-05-28 19:08:53] [Info] Disconnect www.pornhub.com:443
+[2021-05-28 19:08:54] [Info] Disconnect cn.pornhub.com:443
+[2021-05-28 19:08:54] [Info] Connect ads.trafficjunky.net:443
+[2021-05-28 19:08:55] [Info] Disconnect ads.trafficjunky.net:443
+[2021-05-28 19:08:55] [Info] Direct connect beacons.gcp.gvt2.com:443
+[2021-05-28 19:08:56] [Info] Connect di.phncdn.com:443
+[2021-05-28 19:08:56] [Info] Disconnect di.phncdn.com:443
+[2021-05-28 19:08:57] [Info] Connect ci.phncdn.com:443
+[2021-05-28 19:08:58] [Info] Connect clients4.google.com:443
+[2021-05-28 19:09:04] [Info] Disconnect hw-cdn2.adtng.com:443
+[2021-05-28 19:09:05] [Info] Disconnect a.adtng.com:443
+[2021-05-28 19:09:06] [Info] Connect ew.phncdn.com:443
+[2021-05-28 19:09:08] [Info] Connect ew.phncdn.com:443
+[2021-05-28 19:09:08] [Info] Disconnect ew.phncdn.com:443
+[2021-05-28 19:09:10] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:09:10] [Info] Direct connect open.weixin.qq.com:443
+[2021-05-28 19:09:10] [Info] Direct connect res.wx.qq.com:443
+[2021-05-28 19:09:10] [Info] Direct connect res.wx.qq.com:443
+[2021-05-28 19:09:10] [Info] Direct connect tim.qq.com:443
+[2021-05-28 19:09:11] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:09:20] [Info] Disconnect ci.phncdn.com:443
+[2021-05-28 19:09:28] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:09:43] [Info] Connect www.pornhub.com:443
+[2021-05-28 19:09:43] [Info] Connect static.trafficjunky.com:443
+[2021-05-28 19:09:43] [Info] Connect ai.phncdn.com:443
+[2021-05-28 19:09:43] [Info] Direct connect fonts.googleapis.com:443
+[2021-05-28 19:09:43] [Info] Connect ss.phncdn.com:443
+[2021-05-28 19:09:45] [Info] Connect www.pornhub.com:443
+[2021-05-28 19:09:45] [Info] Connect ci.phncdn.com:443
+[2021-05-28 19:09:45] [Info] Connect www.pornhub.com:443
+[2021-05-28 19:09:45] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:09:45] [Info] Connect ci.phncdn.com:443
+[2021-05-28 19:09:45] [Info] Connect ci.phncdn.com:443
+[2021-05-28 19:09:45] [Info] Connect ci.phncdn.com:443
+[2021-05-28 19:09:45] [Info] Connect ci.phncdn.com:443
+[2021-05-28 19:09:45] [Info] Connect ci.phncdn.com:443
+[2021-05-28 19:09:45] [Info] Disconnect ai.phncdn.com:443
+[2021-05-28 19:09:45] [Info] Connect ai.phncdn.com:443
+[2021-05-28 19:09:46] [Info] Disconnect ci.phncdn.com:443
+[2021-05-28 19:09:46] [Info] Disconnect ci.phncdn.com:443
+[2021-05-28 19:09:47] [Info] Disconnect ci.phncdn.com:443
+[2021-05-28 19:09:47] [Info] Disconnect ci.phncdn.com:443
+[2021-05-28 19:09:47] [Info] Disconnect ci.phncdn.com:443
+[2021-05-28 19:09:47] [Info] Disconnect www.pornhub.com:443
+[2021-05-28 19:09:47] [Info] Connect a.adtng.com:443
+[2021-05-28 19:09:50] [Info] Connect ht-cdn2.adtng.com:443
+[2021-05-28 19:09:51] [Info] Connect ai.phncdn.com:443
+[2021-05-28 19:09:53] [Info] Disconnect mtalk.google.com:5228
+[2021-05-28 19:09:54] [Info] Connect mtalk.google.com:5228
+[2021-05-28 19:09:56] [Info] Connect ai.phncdn.com:443
+[2021-05-28 19:09:57] [Info] Disconnect ai.phncdn.com:443
+[2021-05-28 19:09:59] [Info] Connect mtalk.google.com:5228
+[2021-05-28 19:10:02] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:10:03] [Info] Disconnect a.adtng.com:443
+[2021-05-28 19:10:19] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:10:34] [Info] Disconnect di.phncdn.com:443
+[2021-05-28 19:10:36] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:10:40] [Info] Direct connect cdn.bootcdn.net:443
+[2021-05-28 19:10:40] [Info] Direct connect cdn.jsdelivr.net:443
+[2021-05-28 19:10:40] [Info] Connect go.tzwblog.pw:443
+[2021-05-28 19:10:40] [Info] Direct connect fonts.googleapis.com:443
+[2021-05-28 19:10:40] [Info] Direct connect cdn.bootcss.com:443
+[2021-05-28 19:10:40] [Info] Direct connect fonts.gstatic.com:443
+[2021-05-28 19:10:40] [Info] Connect client.crisp.chat:443
+[2021-05-28 19:10:40] [Info] Direct connect cdn.staticfile.org:443
+[2021-05-28 19:10:42] [Info] Direct connect fonts.gstatic.com:443
+[2021-05-28 19:10:42] [Info] Connect client.crisp.chat:443
+[2021-05-28 19:10:42] [Info] Disconnect client.relay.crisp.chat:443
+[2021-05-28 19:10:44] [Info] Connect client.relay.crisp.chat:443
+[2021-05-28 19:10:45] [Info] Disconnect static.trafficjunky.com:443
+[2021-05-28 19:10:45] [Info] Disconnect www.pornhub.com:443
+[2021-05-28 19:10:48] [Info] Disconnect www.pornhub.com:443
+[2021-05-28 19:10:50] [Info] Disconnect cn.pornhub.com:443
+[2021-05-28 19:10:53] [Info] Disconnect srv272b.com:443
+[2021-05-28 19:10:54] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 19:10:55] [Info] Disconnect dn.srv1272.com:443
+[2021-05-28 19:11:01] [Info] Disconnect client.relay.crisp.chat:443
+[2021-05-28 19:11:01] [Info] Disconnect mtalk.google.com:5228
+[2021-05-28 19:11:01] [Info] Disconnect client.crisp.chat:443
+[2021-05-28 19:11:01] [Info] Disconnect ei.phncdn.com:443
+[2021-05-28 19:11:01] [Info] Disconnect ht-cdn2.adtng.com:443
+[2021-05-28 19:11:01] [Info] Disconnect ci.phncdn.com:443
+[2021-05-28 19:11:02] [Info] Disconnect ew.phncdn.com:443
+[2021-05-28 19:11:02] [Info] Disconnect clients4.google.com:443
+[2021-05-28 19:11:02] [Info] Disconnect go.tzwblog.pw:443
+[2021-05-28 19:11:02] [Info] Disconnect ads.trafficjunky.net:443
+[2021-05-28 19:11:02] [Info] Disconnect client.crisp.chat:443
+[2021-05-28 19:11:02] [Info] Disconnect ss.phncdn.com:443
+[2021-05-28 19:11:11] [Info] Direct connect lp.open.weixin.qq.com:443
+[2021-05-28 22:27:46] ShadowsocksR started on port 1080
+[2021-05-28 22:27:56] [Debug] DNS query fail: raw.githubusercontent.com
+[2021-05-28 22:27:56] [Info] Connect raw.githubusercontent.com:443
+[2021-05-28 22:27:58] [Info] Disconnect raw.githubusercontent.com:443
+[2021-05-28 22:27:58] [Debug] DNS query fail: raw.githubusercontent.com
+[2021-05-28 22:27:58] [Info] Connect raw.githubusercontent.com:443
+[2021-05-28 22:28:00] [Info] Disconnect raw.githubusercontent.com:443
+[2021-05-28 22:28:00] [Error] connect to update server error
+[2021-05-28 22:28:16] [Info] Direct connect redirector.gvt1.com:443
+[2021-05-28 22:28:16] [Info] Connect ipv6check-http.steamcontent.com:80
+[2021-05-28 22:28:17] [Info] Direct connect media.st.dl.pinyuncloud.com:443
+[2021-05-28 22:28:17] [Info] Direct connect r3---sn-ni5eln7s.gvt1.com:443
+[2021-05-28 22:28:18] [Info] Disconnect ipv6check-http.steamcontent.com:80
+[2021-05-28 22:28:19] [Info] Connect api.steampowered.com:443
+[2021-05-28 22:28:19] [Info] Connect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:19] [Info] Connect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:19] [Info] Connect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:19] [Info] Connect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:19] [Info] Connect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:19] [Info] Connect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:19] [Info] Connect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:19] [Info] Connect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:19] [Info] Connect steamcdn-a.akamaihd.net:443
+[2021-05-28 22:28:19] [Info] Connect steamcdn-a.akamaihd.net:443
+[2021-05-28 22:28:19] [Info] Connect steamcdn-a.akamaihd.net:443
+[2021-05-28 22:28:19] [Info] Connect steamstore-a.akamaihd.net:443
+[2021-05-28 22:28:19] [Info] Connect steamstore-a.akamaihd.net:443
+[2021-05-28 22:28:19] [Info] Connect steamstore-a.akamaihd.net:443
+[2021-05-28 22:28:19] [Info] Connect steam-chat.com:443
+[2021-05-28 22:28:20] [Info] Connect store.steampowered.com:443
+[2021-05-28 22:28:20] [Info] Connect steam-chat.com:443
+[2021-05-28 22:28:20] [Info] Connect store.steampowered.com:443
+[2021-05-28 22:28:20] [Info] Connect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:20] [Info] Connect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:20] [Info] Connect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:20] [Info] Disconnect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:20] [Info] Disconnect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:20] [Info] Disconnect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:20] [Info] Connect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:20] [Info] Disconnect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:21] [Info] Connect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:21] [Info] Connect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:21] [Info] Disconnect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:21] [Info] Connect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:21] [Info] Disconnect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:21] [Info] Connect steam-chat.com:443
+[2021-05-28 22:28:21] [Info] Disconnect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:21] [Warn] Proxy server [过期时间：2021-08-26 18:39:56(www.google.com)] connection refused
+[2021-05-28 22:28:21] [Info] Connect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:21] [Warn] Proxy server [剩余流量：100.00% 350GB(www.google.com)] connection refused
+[2021-05-28 22:28:21] [Info] Disconnect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:21] [Info] Connect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:21] [Info] Connect steamcdn-a.akamaihd.net:443
+[2021-05-28 22:28:22] [Info] Disconnect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:22] [Info] Connect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:22] [Info] Connect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:22] [Info] Connect steamstore-a.akamaihd.net:443
+[2021-05-28 22:28:22] [Info] Connect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:22] [Info] Disconnect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:22] [Info] Disconnect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:22] [Info] Connect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:22] [Info] Disconnect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:22] [Info] Connect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:22] [Info] Disconnect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:22] [Info] Disconnect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:23] [Info] Disconnect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:23] [Warn] Proxy server [剩余流量：100.00% 350GB(www.google.com)] connection refused
+[2021-05-28 22:28:23] [Info] Disconnect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:23] [Info] Disconnect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:23] [Info] Connect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:23] [Info] Disconnect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:23] [Info] Connect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:23] [Info] Connect community.akamai.steamstatic.com:443
+[2021-05-28 22:28:23] [Info] Disconnect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:24] [Info] Disconnect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:25] [Warn] Proxy server [过期时间：2021-08-26 18:39:56(www.google.com)] connection refused
+[2021-05-28 22:28:25] [Info] Disconnect clientconfig.akamai.steamstatic.com:80
+[2021-05-28 22:28:26] [Info] Connect steamstore-a.akamaihd.net:443
+[2021-05-28 22:28:26] [Info] Disconnect steam-chat.com:443
+[2021-05-28 22:28:28] [Info] Connect cdn.akamai.steamstatic.com:443
+[2021-05-28 22:28:32] [Info] Connect store.steampowered.com:443
+[2021-05-28 22:28:34] [Info] Direct connect steamcn-sh.oss-cn-shanghai.aliyuncs.com:443
+[2021-05-28 22:28:52] [Info] Disconnect api.steampowered.com:443
+[2021-05-28 22:28:52] [Info] Disconnect steamstore-a.akamaihd.net:443
+[2021-05-28 22:28:52] [Info] Disconnect steamstore-a.akamaihd.net:443
+[2021-05-28 22:28:54] [Info] Connect steamcommunity.com:443
+[2021-05-28 22:28:54] [Info] Disconnect steamstore-a.akamaihd.net:443
+[2021-05-28 22:28:54] [Info] Connect api.steampowered.com:443
+[2021-05-28 22:28:54] [Info] Connect steamcommunity.com:443
+[2021-05-28 22:28:54] [Info] Connect store.steampowered.com:443
+[2021-05-28 22:28:54] [Info] Connect api.steampowered.com:443
+[2021-05-28 22:28:55] [Info] Connect store.steampowered.com:443
+[2021-05-28 22:28:56] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:56] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:56] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:56] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:57] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:57] [Info] Disconnect steamcdn-a.akamaihd.net:443
+[2021-05-28 22:28:57] [Info] Disconnect steamcdn-a.akamaihd.net:443
+[2021-05-28 22:28:57] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:57] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:57] [Info] Disconnect steamcdn-a.akamaihd.net:443
+[2021-05-28 22:28:57] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:57] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:57] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:57] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:57] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:58] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:58] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:58] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:58] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:58] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:58] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:58] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:58] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:58] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:58] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:58] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:58] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:58] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:59] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:59] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:59] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:59] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:59] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:59] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:59] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:59] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:59] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:59] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:59] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:59] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:28:59] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:00] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:00] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:00] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:00] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:00] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:00] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:00] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:00] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:00] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:00] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:00] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:01] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:01] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:01] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:01] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:01] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:01] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:01] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:01] [Info] Disconnect store.steampowered.com:443
+[2021-05-28 22:29:01] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:01] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:01] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:01] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:01] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:02] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:02] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:02] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:02] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:02] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:02] [Info] Disconnect store.steampowered.com:443
+[2021-05-28 22:29:02] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:02] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:02] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:02] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:02] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:02] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:02] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:03] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:03] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:03] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:03] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:03] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:03] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:03] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:03] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:03] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:03] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:03] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:04] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:04] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:04] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:04] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:04] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:04] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:04] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:04] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:04] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:04] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:04] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:04] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:04] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:05] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:05] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:05] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:05] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:05] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:05] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:05] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:05] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:05] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:05] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:06] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:06] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:06] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:06] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:06] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:06] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:06] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:06] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:06] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:06] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:06] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:06] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:06] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:07] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:07] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:07] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:07] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:07] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:07] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:07] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:07] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:07] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:07] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:07] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:07] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:08] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:08] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:08] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:08] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:08] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:08] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:08] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:08] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:08] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:08] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:09] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:09] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:09] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:09] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:09] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:09] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:09] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:09] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:09] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:10] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:10] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:10] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:10] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:10] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:10] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:10] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:10] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:10] [Info] Connect go.microsoft.com:443
+[2021-05-28 22:29:10] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:10] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:10] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:10] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:10] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:10] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:10] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:11] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:11] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:11] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:11] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:11] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:11] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:11] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:11] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:11] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:11] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:12] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:12] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:12] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:12] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:12] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:12] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:12] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:12] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:12] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:12] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:12] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:12] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:12] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:13] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:13] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:13] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:13] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:13] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:13] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:13] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:13] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:13] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:13] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:13] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:14] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:14] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:14] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:14] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:14] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:14] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:14] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:14] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:14] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:14] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:14] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:15] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:15] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:15] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:15] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:15] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:15] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:15] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:15] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:15] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:15] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:15] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:16] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:16] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:16] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:16] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:16] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:16] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:16] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:16] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:16] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:16] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:16] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:16] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:17] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:17] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:17] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:17] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:17] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:17] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:17] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:17] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:17] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:17] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:17] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:17] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:18] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:18] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:18] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:18] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:18] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:18] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:18] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:18] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:18] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:18] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:18] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:19] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:19] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:19] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:19] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:19] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:19] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:19] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:19] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:19] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:19] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:19] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:19] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:20] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:20] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:20] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:20] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:20] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:20] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:20] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:20] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:20] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:20] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:20] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:21] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:21] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:21] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:21] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:21] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:21] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:21] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:21] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:21] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:21] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:21] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:21] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:21] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:22] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:22] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:22] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:22] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:22] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:22] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:22] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:22] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:22] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:23] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:23] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:23] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:23] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:23] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:23] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:23] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:23] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:23] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:23] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:23] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:23] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:23] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:23] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:24] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:24] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:24] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:24] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:24] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:24] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:24] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:24] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:24] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:24] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:24] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:24] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:24] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:24] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:25] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:25] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:25] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:25] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:25] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:25] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:25] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:25] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:25] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:25] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:25] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:25] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:25] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:26] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:26] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:26] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:26] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:26] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:26] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:26] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:26] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:26] [Info] Disconnect api.steampowered.com:443
+[2021-05-28 22:29:26] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:26] [Info] Direct connect steampipe.steamcontent.tnkjmec.com:80
+[2021-05-28 22:29:26] [Info] Disconnect api.steampowered.com:443
+[2021-05-28 22:29:33] [Debug] DNS query fail: stopservice.chshap.blob.core.windows.net
+[2021-05-28 22:29:33] [Info] Connect stopservice.chshap.blob.core.windows.net:443
+[2021-05-28 22:29:35] [Warn] Proxy server [过期时间：2021-08-26 18:39:56(www.google.com)] connection refused
+[2021-05-28 22:29:35] [Info] Connect stopservice.chshap.blob.core.windows.net:443
+[2021-05-28 22:29:37] [Info] Disconnect stopservice.chshap.blob.core.windows.net:443
+[2021-05-28 22:29:47] [Debug] DNS query fail: stopservice.chshap.blob.core.windows.net
+[2021-05-28 22:29:47] [Info] Connect stopservice.chshap.blob.core.windows.net:443
+[2021-05-28 22:29:48] [Info] Disconnect stopservice.chshap.blob.core.windows.net:443
+[2021-05-28 22:29:58] [Debug] DNS query fail: stopservice.chshap.blob.core.windows.net
+[2021-05-28 22:29:58] [Info] Connect stopservice.chshap.blob.core.windows.net:443
+[2021-05-28 22:29:58] [Info] Disconnect stopservice.chshap.blob.core.windows.net:443
+[2021-05-28 22:30:14] [Info] Connect api.github.com:443
+[2021-05-28 22:30:17] [Info] Disconnect api.github.com:443
+[2021-05-28 22:30:17] [Info] Disconnect cdn.akamai.steamstatic.com:443
+[2021-05-28 22:30:17] [Info] Disconnect community.akamai.steamstatic.com:443
+[2021-05-28 22:30:18] [Info] Disconnect steam-chat.com:443
+[2021-05-28 22:30:18] [Info] Disconnect steam-chat.com:443
+[2021-05-28 22:30:18] [Info] Disconnect steamcommunity.com:443
+[2021-05-28 22:30:18] [Info] Disconnect steamcommunity.com:443
+[2021-05-28 22:30:18] [Info] Disconnect steamstore-a.akamaihd.net:443
+[2021-05-28 22:30:18] [Info] Disconnect store.steampowered.com:443
+[2021-05-28 22:30:18] [Info] Disconnect store.steampowered.com:443
+[2021-05-28 22:30:20] [Info] Connect steamcommunity-a.akamaihd.net:443
+[2021-05-28 22:30:20] [Info] Connect community.akamai.steamstatic.com:443
+[2021-05-28 22:30:20] [Info] Connect community.akamai.steamstatic.com:443
+[2021-05-28 22:30:20] [Info] Connect community.akamai.steamstatic.com:443
+[2021-05-28 22:30:20] [Info] Connect api.steampowered.com:443
+[2021-05-28 22:30:23] [Info] Disconnect community.akamai.steamstatic.com:443
+[2021-05-28 22:30:23] [Info] Disconnect community.akamai.steamstatic.com:443
+[2021-05-28 22:30:23] [Info] Disconnect community.akamai.steamstatic.com:443
+[2021-05-28 22:30:52] [Info] Disconnect api.steampowered.com:443
+[2021-05-28 22:30:54] [Info] Disconnect steamcommunity-a.akamaihd.net:443
+[2021-05-28 22:31:00] [Info] Disconnect go.microsoft.com:443
+[2021-05-28 22:31:09] [Info] Connect x.ea.com:80
+[2021-05-28 22:31:11] [Info] Connect x.ea.com:443
+[2021-05-28 22:31:11] [Info] Disconnect x.ea.com:80
+[2021-05-28 22:31:13] [Warn] Proxy server [过期时间：2021-08-26 18:39:56(www.google.com)] connection refused
+[2021-05-28 22:31:13] [Info] Connect x.ea.com:443
+[2021-05-28 22:31:25] [Info] Disconnect x.ea.com:443

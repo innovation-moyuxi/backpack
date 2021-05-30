@@ -1,0 +1,58 @@
+2019-01-02 11:49:07.920 00002294 Error: No server or forwarder response received on socket 4364.
+2021-05-28 11:56:16.485 00000894 Error: No server or forwarder response received on socket 1420.
+2021-05-28 11:56:16.485 0000057c Error: No server or forwarder response received on socket 1748.
+2021-05-28 11:56:16.526 000032d0 Error: No server or forwarder response received on socket 1784.
+2021-05-28 12:00:17.691 0000131c Error: No server or forwarder response received on socket 4156.
+2021-05-28 12:04:54.678 00002100 Error: Didn't receive data in time: mtalk.google.com:5228
+2021-05-28 18:03:32.682 00002cb8 Error: No server or forwarder response received on socket 2076.
+2021-05-28 18:03:32.686 00003278 Error: No server or forwarder response received on socket 1748.
+2021-05-28 18:03:32.705 000006d4 Error: No server or forwarder response received on socket 2964.
+2021-05-28 18:06:09.470 00002fd8 Error: No server or forwarder response received on socket 1804.
+2021-05-28 18:06:10.945 000030c4 Error: No server or forwarder response received on socket 3832.
+2021-05-28 18:06:12.793 00002d7c Error: No server or forwarder response received on socket 3252.
+2021-05-28 18:08:14.640 000030e4 Error: No server or forwarder response received on socket 3460.
+2021-05-28 18:08:14.778 00000b8c Error: No server or forwarder response received on socket 2972.
+2021-05-28 18:08:14.811 000021fc Error: No server or forwarder response received on socket 2044.
+2021-05-28 18:13:08.938 000033d4 Error: Didn't receive data in time: mtalk.google.com:5228
+2021-05-28 18:18:09.576 00000774 Error: Didn't receive data in time: mtalk.google.com:5228
+2021-05-28 18:18:47.121 00002da0 Error: Didn't receive data in time: cdn.syndication.twimg.com:443
+2021-05-28 18:19:52.910 00001cb4 Error: Didn't receive data in time: image.crisp.chat:443
+2021-05-28 18:23:10.610 00000e3c Error: Didn't receive data in time: client.crisp.chat:443
+2021-05-28 18:23:10.610 00002a7c Error: Didn't receive data in time: client.crisp.chat:443
+2021-05-28 18:23:10.906 00001678 Error: Didn't receive data in time: mtalk.google.com:5228
+2021-05-28 18:23:58.962 00001104 Error: Didn't receive data in time: go.tzwblog.pw:443
+2021-05-28 18:27:23.511 00001ac8 Error: No server or forwarder response received on socket 1548.
+2021-05-28 18:27:23.515 00002a00 Error: No server or forwarder response received on socket 4016.
+2021-05-28 18:27:23.629 00001a18 Error: No server or forwarder response received on socket 2972.
+2021-05-28 19:51:40.272 00001f7c Error: Didn't receive data in time: github.githubassets.com:443
+2021-05-28 19:53:54.046 00000d90 Error: Didn't receive data in time: avatars.githubusercontent.com:443
+2021-05-28 19:53:54.061 000033f8 Error: Didn't receive data in time: github.githubassets.com:443
+2021-05-28 19:56:09.993 000027d4 Error: No server or forwarder response received on socket 3868.
+2021-05-28 19:56:10.081 00000a54 Error: No server or forwarder response received on socket 1084.
+2021-05-28 19:56:10.119 00000588 Error: No server or forwarder response received on socket 1792.
+2021-05-28 20:01:06.997 00002194 Error: Didn't receive data in time: mtalk.google.com:5228
+2021-05-28 20:03:41.544 00002664 Error: No server or forwarder response received on socket 3232.
+2021-05-28 20:03:41.849 00002fd4 Error: No server or forwarder response received on socket 1844.
+2021-05-28 20:03:41.870 0000329c Error: No server or forwarder response received on socket 2120.
+2021-05-28 20:05:45.191 00001c50 Error: No server or forwarder response received on socket 3796.
+2021-05-28 20:05:45.261 0000197c Error: No server or forwarder response received on socket 1396.
+2021-05-28 20:05:45.517 00001a74 Error: No server or forwarder response received on socket 3732.
+2021-05-28 20:06:30.964 00000b10 Error: No server or forwarder response received on socket 2104.
+2021-05-28 20:06:31.230 00002f44 Error: No server or forwarder response received on socket 2120.
+2021-05-28 20:06:31.388 00000ea8 Error: No server or forwarder response received on socket 3136.
+2021-05-28 20:11:34.954 00002e6c Error: Didn't receive data in time: mtalk.google.com:5228
+2021-05-28 20:16:35.539 00002b4c Error: Didn't receive data in time: mtalk.google.com:5228
+2021-05-28 20:21:36.089 00002444 Error: Didn't receive data in time: mtalk.google.com:5228
+2021-05-28 20:23:05.315 00002cf8 Error: Didn't receive data in time: github.githubassets.com:443
+2021-05-28 20:26:36.654 00002100 Error: Didn't receive data in time: mtalk.google.com:5228
+2021-05-28 20:30:47.336 000028f4 Error: No server or forwarder response received on socket 3788.
+2021-05-28 20:30:47.406 00002618 Error: No server or forwarder response received on socket 3000.
+2021-05-28 20:30:47.464 00000a84 Error: No server or forwarder response received on socket 3868.
+2021-05-30 10:42:09.916 00000954 Error: No server or forwarder response received on socket 1972.
+2021-05-30 10:42:10.610 000017b4 Error: No server or forwarder response received on socket 1932.
+2021-05-30 10:42:11.312 00000dac Error: No server or forwarder response received on socket 2212.
+2021-05-30 11:00:07.636 000032e4 Error: No server or forwarder response received on socket 3576.
+2021-05-30 11:00:08.321 000028f4 Error: No server or forwarder response received on socket 1388.
+2021-05-30 11:00:09.056 0000097c Error: No server or forwarder response received on socket 1408.
+2021-05-30 14:13:52.559 000035c8 Error: Didn't receive data in time: avatars.githubusercontent.com:443
+2021-05-30 14:16:51.786 00002de8 Error: Couldn't deliver the error message through client socket 2200: WSAECONNABORTED - Software caused connection abort.

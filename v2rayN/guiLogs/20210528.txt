@@ -1,0 +1,97 @@
+--------------------------------info[18:59:24]--------------------------------
+System.Exception: v2rayN start up v2rayN - V4.18 - 2021/05/23
+
+ 
+--------------------------------info[19:17:15]--------------------------------
+System.Exception: v2rayN start up v2rayN - V4.18 - 2021/05/23
+
+ 
+--------------------------------无效的 URI: 未能确定 URI 的格式。[19:19:56]--------------------------------
+System.UriFormatException: 无效的 URI: 未能确定 URI 的格式。
+   在 System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   在 v2rayN.Handler.DownloadHandle.WebDownloadString(String url)
+
+ 
+--------------------------------无效的 URI: 未能分析主机名。[19:21:36]--------------------------------
+System.UriFormatException: 无效的 URI: 未能分析主机名。
+   在 System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   在 v2rayN.Handler.DownloadHandle.WebDownloadString(String url)
+
+ 
+--------------------------------Base64Decode[19:23:09]--------------------------------
+System.FormatException: 输入的不是有效的 Base-64 字符串，因为它包含非 Base-64 字符、两个以上的填充字符，或者填充字符间包含非法字符。
+   在 System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   在 System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   在 System.Convert.FromBase64String(String s)
+   在 v2rayN.Utils.Base64Decode(String plainText)
+
+ 
+--------------------------------info[19:23:47]--------------------------------
+System.Exception: v2rayN start up v2rayN - V4.18 - 2021/05/23
+
+ 
+--------------------------------Base64Decode[19:24:26]--------------------------------
+System.FormatException: 输入的不是有效的 Base-64 字符串，因为它包含非 Base-64 字符、两个以上的填充字符，或者填充字符间包含非法字符。
+   在 System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   在 System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   在 System.Convert.FromBase64String(String s)
+   在 v2rayN.Utils.Base64Decode(String plainText)
+
+ 
+--------------------------------Base64Decode[19:25:04]--------------------------------
+System.FormatException: 输入的不是有效的 Base-64 字符串，因为它包含非 Base-64 字符、两个以上的填充字符，或者填充字符间包含非法字符。
+   在 System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   在 System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   在 System.Convert.FromBase64String(String s)
+   在 v2rayN.Utils.Base64Decode(String plainText)
+
+ 
+--------------------------------Base64Decode[19:26:09]--------------------------------
+System.FormatException: 输入的不是有效的 Base-64 字符串，因为它包含非 Base-64 字符、两个以上的填充字符，或者填充字符间包含非法字符。
+   在 System.Convert.FromBase64_ComputeResultLength(Char* inputPtr, Int32 inputLength)
+   在 System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   在 System.Convert.FromBase64String(String s)
+   在 v2rayN.Utils.Base64Decode(String plainText)
+
+ 
+--------------------------------Base64Decode[19:27:11]--------------------------------
+System.FormatException: 输入的不是有效的 Base-64 字符串，因为它包含非 Base-64 字符、两个以上的填充字符，或者填充字符间包含非法字符。
+   在 System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   在 System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   在 System.Convert.FromBase64String(String s)
+   在 v2rayN.Utils.Base64Decode(String plainText)
+
+ 
+--------------------------------无效的 URI: 未能分析主机名。[19:27:21]--------------------------------
+System.UriFormatException: 无效的 URI: 未能分析主机名。
+   在 System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   在 v2rayN.Handler.DownloadHandle.WebDownloadString(String url)
+
+ 
+--------------------------------无效的 URI: 未能分析主机名。[19:27:32]--------------------------------
+System.UriFormatException: 无效的 URI: 未能分析主机名。
+   在 System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   在 v2rayN.Handler.DownloadHandle.WebDownloadString(String url)
+
+ 
+--------------------------------Base64Decode[19:27:54]--------------------------------
+System.FormatException: 输入的不是有效的 Base-64 字符串，因为它包含非 Base-64 字符、两个以上的填充字符，或者填充字符间包含非法字符。
+   在 System.Convert.FromBase64_Decode(Char* startInputPtr, Int32 inputLength, Byte* startDestPtr, Int32 destLength)
+   在 System.Convert.FromBase64CharPtr(Char* inputPtr, Int32 inputLength)
+   在 System.Convert.FromBase64String(String s)
+   在 v2rayN.Utils.Base64Decode(String plainText)
+
+ 
+--------------------------------info[19:36:29]--------------------------------
+System.Exception: v2rayN start up v2rayN - V4.18 - 2021/05/23
+
+ 
+--------------------------------远程服务器返回错误: (404) 未找到。[19:39:31]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 v2rayN.Handler.DownloadHandle.Ws_DownloadStringCompleted(Object sender, DownloadStringCompletedEventArgs e)
+
+ 
+--------------------------------info[19:53:20]--------------------------------
+System.Exception: v2rayN start up v2rayN - V4.18 - 2021/05/23
+
+ 
